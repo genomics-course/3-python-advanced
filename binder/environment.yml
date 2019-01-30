@@ -1,0 +1,5 @@
+name: session-3
+dependencies:
+  - python
+  - numpy
+  - pandas
