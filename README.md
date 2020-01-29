@@ -1,13 +1,14 @@
-# 2-genes
+# 3. Python Advanced
 
-Gene ontology, homology, blast, and Python introduction. 
+Files, Dictionaries, requests, and transcription.
 
 ### Notebooks
 
-+ 2.0: Introduction to Python
-+ 2.1: Gene ontology; features of a genome
-+ 2.2: Blast; homology
-+ 2.3: Python exercises
++ 3.0: files    
++ 3.1: dictionaries  
++ 3.2: transcription-translation  
+
+
 
 
 
