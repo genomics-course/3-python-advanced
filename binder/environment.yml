@@ -3,3 +3,4 @@ dependencies:
   - python
   - numpy
   - pandas
+  - requests
